@@ -1,0 +1,20 @@
+running develop
+running egg_info
+writing osl_motor.egg-info/PKG-INFO
+writing dependency_links to osl_motor.egg-info/dependency_links.txt
+writing entry points to osl_motor.egg-info/entry_points.txt
+writing requirements to osl_motor.egg-info/requires.txt
+writing top-level names to osl_motor.egg-info/top_level.txt
+reading manifest file 'osl_motor.egg-info/SOURCES.txt'
+writing manifest file 'osl_motor.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/hari-prasad-gajurel/Our_control/leg_control/install/osl_motor/lib/python3.12/site-packages/osl-motor.egg-link (link to .)
+Installing motor_sim script to /home/hari-prasad-gajurel/Our_control/leg_control/install/osl_motor/lib/osl_motor
+
+Installed /home/hari-prasad-gajurel/Our_control/leg_control/build/osl_motor
+running symlink_data
+symbolically linking /home/hari-prasad-gajurel/Our_control/leg_control/build/osl_motor/resource/osl_motor -> /home/hari-prasad-gajurel/Our_control/leg_control/install/osl_motor/share/ament_index/resource_index/packages
+symbolically linking /home/hari-prasad-gajurel/Our_control/leg_control/build/osl_motor/package.xml -> /home/hari-prasad-gajurel/Our_control/leg_control/install/osl_motor/share/osl_motor
+symbolically linking /home/hari-prasad-gajurel/Our_control/leg_control/build/osl_motor/launch/motor_sim.launch.py -> /home/hari-prasad-gajurel/Our_control/leg_control/install/osl_motor/share/osl_motor/launch
+symbolically linking /home/hari-prasad-gajurel/Our_control/leg_control/build/osl_motor/config/ankle_motor.yaml -> /home/hari-prasad-gajurel/Our_control/leg_control/install/osl_motor/share/osl_motor/config
+symbolically linking /home/hari-prasad-gajurel/Our_control/leg_control/build/osl_motor/config/knee_motor.yaml -> /home/hari-prasad-gajurel/Our_control/leg_control/install/osl_motor/share/osl_motor/config

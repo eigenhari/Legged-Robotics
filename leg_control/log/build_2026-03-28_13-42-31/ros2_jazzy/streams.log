@@ -1,0 +1,20 @@
+[1.312s] Invoking command in '/home/hari-prasad-gajurel/Our_control/leg_control/build/ros2_jazzy': AMENT_PREFIX_PATH=/home/hari-prasad-gajurel/Our_control/leg_control/install/osl_motor:/home/hari-prasad-gajurel/Our_control/leg_control/install/ros2_jazzy:/home/hari-prasad-gajurel/Our_control/leg_control/install/pid_tune:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/hari-prasad-gajurel/Our_control/leg_control/build/ros2_jazzy/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hari-prasad-gajurel/Our_control/leg_control/install/ros2_jazzy/lib/python3.12/site-packages:/home/hari-prasad-gajurel/Our_control/leg_control/install/pid_tune/lib/python3.12/site-packages:/home/hari-prasad-gajurel/Our_control/leg_control/build/osl_motor:/home/hari-prasad-gajurel/Our_control/leg_control/install/osl_motor/lib/python3.12/site-packages:/home/hari-prasad-gajurel/Our_control/leg_control/build/ros2_jazzy:/home/hari-prasad-gajurel/Our_control/leg_control/install/ros2_jazzy/lib/python3.12/site-packages:/opt/ros/jazzy/lib/python3.12/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hari-prasad-gajurel/Our_control/leg_control/build/ros2_jazzy/build --no-deps symlink_data
+[1.846s] running develop
+[2.194s] running egg_info
+[2.225s] writing ros2_jazzy.egg-info/PKG-INFO
+[2.226s] writing dependency_links to ros2_jazzy.egg-info/dependency_links.txt
+[2.226s] writing entry points to ros2_jazzy.egg-info/entry_points.txt
+[2.226s] writing requirements to ros2_jazzy.egg-info/requires.txt
+[2.226s] writing top-level names to ros2_jazzy.egg-info/top_level.txt
+[2.288s] reading manifest file 'ros2_jazzy.egg-info/SOURCES.txt'
+[2.290s] writing manifest file 'ros2_jazzy.egg-info/SOURCES.txt'
+[2.324s] running build_ext
+[2.325s] Creating /home/hari-prasad-gajurel/Our_control/leg_control/install/ros2_jazzy/lib/python3.12/site-packages/ros2-jazzy.egg-link (link to .)
+[2.325s] Installing loadcell script to /home/hari-prasad-gajurel/Our_control/leg_control/install/ros2_jazzy/lib/ros2_jazzy
+[2.326s] Installing oslsim_controller script to /home/hari-prasad-gajurel/Our_control/leg_control/install/ros2_jazzy/lib/ros2_jazzy
+[2.326s] Installing oslsim_pid_tuner script to /home/hari-prasad-gajurel/Our_control/leg_control/install/ros2_jazzy/lib/ros2_jazzy
+[2.326s] Installing oslsim_walker script to /home/hari-prasad-gajurel/Our_control/leg_control/install/ros2_jazzy/lib/ros2_jazzy
+[2.327s] 
+[2.327s] Installed /home/hari-prasad-gajurel/Our_control/leg_control/build/ros2_jazzy
+[2.327s] running symlink_data
+[2.390s] Invoked command in '/home/hari-prasad-gajurel/Our_control/leg_control/build/ros2_jazzy' returned '0': AMENT_PREFIX_PATH=/home/hari-prasad-gajurel/Our_control/leg_control/install/osl_motor:/home/hari-prasad-gajurel/Our_control/leg_control/install/ros2_jazzy:/home/hari-prasad-gajurel/Our_control/leg_control/install/pid_tune:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/hari-prasad-gajurel/Our_control/leg_control/build/ros2_jazzy/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hari-prasad-gajurel/Our_control/leg_control/install/ros2_jazzy/lib/python3.12/site-packages:/home/hari-prasad-gajurel/Our_control/leg_control/install/pid_tune/lib/python3.12/site-packages:/home/hari-prasad-gajurel/Our_control/leg_control/build/osl_motor:/home/hari-prasad-gajurel/Our_control/leg_control/install/osl_motor/lib/python3.12/site-packages:/home/hari-prasad-gajurel/Our_control/leg_control/build/ros2_jazzy:/home/hari-prasad-gajurel/Our_control/leg_control/install/ros2_jazzy/lib/python3.12/site-packages:/opt/ros/jazzy/lib/python3.12/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hari-prasad-gajurel/Our_control/leg_control/build/ros2_jazzy/build --no-deps symlink_data
