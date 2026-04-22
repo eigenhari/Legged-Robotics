@@ -1,0 +1,21 @@
+[1.828s] Invoking command in '/home/hari-prasad-gajurel/Our_control/leg_control/build/osl_motor': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/hari-prasad-gajurel/Our_control/leg_control/build/osl_motor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hari-prasad-gajurel/Our_control/leg_control/install/osl_motor/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hari-prasad-gajurel/Our_control/leg_control/build/osl_motor/build --no-deps symlink_data --force
+[2.363s] running develop
+[2.707s] running egg_info
+[2.751s] writing osl_motor.egg-info/PKG-INFO
+[2.752s] writing dependency_links to osl_motor.egg-info/dependency_links.txt
+[2.752s] writing entry points to osl_motor.egg-info/entry_points.txt
+[2.752s] writing requirements to osl_motor.egg-info/requires.txt
+[2.752s] writing top-level names to osl_motor.egg-info/top_level.txt
+[2.830s] reading manifest file 'osl_motor.egg-info/SOURCES.txt'
+[2.832s] writing manifest file 'osl_motor.egg-info/SOURCES.txt'
+[2.921s] running build_ext
+[2.922s] Creating /home/hari-prasad-gajurel/Our_control/leg_control/install/osl_motor/lib/python3.12/site-packages/osl-motor.egg-link (link to .)
+[2.922s] Installing motor_sim script to /home/hari-prasad-gajurel/Our_control/leg_control/install/osl_motor/lib/osl_motor
+[2.922s] 
+[2.927s] Installed /home/hari-prasad-gajurel/Our_control/leg_control/build/osl_motor
+[2.927s] running symlink_data
+[2.928s] symbolically linking /home/hari-prasad-gajurel/Our_control/leg_control/build/osl_motor/resource/osl_motor -> /home/hari-prasad-gajurel/Our_control/leg_control/install/osl_motor/share/ament_index/resource_index/packages
+[2.928s] symbolically linking /home/hari-prasad-gajurel/Our_control/leg_control/build/osl_motor/package.xml -> /home/hari-prasad-gajurel/Our_control/leg_control/install/osl_motor/share/osl_motor
+[2.928s] symbolically linking /home/hari-prasad-gajurel/Our_control/leg_control/build/osl_motor/launch/motor_sim.launch.py -> /home/hari-prasad-gajurel/Our_control/leg_control/install/osl_motor/share/osl_motor/launch
+[2.928s] symbolically linking /home/hari-prasad-gajurel/Our_control/leg_control/build/osl_motor/config/ankle_motor.yaml -> /home/hari-prasad-gajurel/Our_control/leg_control/install/osl_motor/share/osl_motor/config
+[2.929s] symbolically linking /home/hari-prasad-gajurel/Our_control/leg_control/build/osl_motor/config/knee_motor.yaml -> /home/hari-prasad-gajurel/Our_control/leg_control/install/osl_motor/share/osl_motor/config
