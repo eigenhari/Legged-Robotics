@@ -1,7 +1,7 @@
 # Simulation of a Transfemoral Prosthetic Leg
 
-> **Author:** Your Name  
-> **Date:** January 2025  
+> **Author:** Hari Prasad Gajurel  
+> **Date:**  2025 
 > **Topic:** Robotics / Biomechanics / Control Systems  
 
 ---
